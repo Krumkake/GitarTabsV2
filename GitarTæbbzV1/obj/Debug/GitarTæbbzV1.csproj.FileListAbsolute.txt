@@ -1,0 +1,9 @@
+C:\Users\kaje-\source\repos\GitarTæbbzV1\GitarTæbbzV1\bin\Debug\GitarTæbbzV1.exe.config
+C:\Users\kaje-\source\repos\GitarTæbbzV1\GitarTæbbzV1\bin\Debug\GitarTæbbzV1.exe
+C:\Users\kaje-\source\repos\GitarTæbbzV1\GitarTæbbzV1\bin\Debug\GitarTæbbzV1.pdb
+C:\Users\kaje-\source\repos\GitarTæbbzV1\GitarTæbbzV1\obj\Debug\GitarTæbbzV1.csprojAssemblyReference.cache
+C:\Users\kaje-\source\repos\GitarTæbbzV1\GitarTæbbzV1\obj\Debug\GitarTæbbzV1.Form1.resources
+C:\Users\kaje-\source\repos\GitarTæbbzV1\GitarTæbbzV1\obj\Debug\GitarTæbbzV1.Properties.Resources.resources
+C:\Users\kaje-\source\repos\GitarTæbbzV1\GitarTæbbzV1\obj\Debug\GitarTæbbzV1.csproj.GenerateResource.cache
+C:\Users\kaje-\source\repos\GitarTæbbzV1\GitarTæbbzV1\obj\Debug\GitarTæbbzV1.exe
+C:\Users\kaje-\source\repos\GitarTæbbzV1\GitarTæbbzV1\obj\Debug\GitarTæbbzV1.pdb
